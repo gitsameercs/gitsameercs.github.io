@@ -1,2 +1,2 @@
-# gitamancs.github.io
+# gitSameercs.github.io
 My Website
